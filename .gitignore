@@ -1,0 +1,5 @@
+dmx_ro_i2clcd
+Makefile
+*.user*
+*.o
+moc_*
